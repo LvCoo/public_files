@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>abb.ecs.app.test</string>
+				<string>com.abb.ecs.dev.test</string>
 				<key>bundle-version</key>
-				<string>1.2.48</string>
+				<string>1.2.49</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
